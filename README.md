@@ -1,0 +1,1 @@
+Meriç çalışmasına ait verilerdir.

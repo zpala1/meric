@@ -1,0 +1,3 @@
+# Data Availability Statement — provisional wording
+
+The streamflow observations analysed in this study originate from third-party hydro-meteorological records supplied to the authors. Redistribution rights and source-specific access conditions have not yet been confirmed. Accordingly, the original observation tables are not publicly deposited in this repository at present. The authors intend to provide analysis code and non-restricted documentation at [repository URL], subject to final reproducibility and licensing checks. Requests for the original observations should be directed to the relevant data provider under its access conditions. This statement must be revised before manuscript submission to reflect the actual repository contents and confirmed permissions.
